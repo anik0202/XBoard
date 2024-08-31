@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.864" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-08-31T20:29:02" tests="0" file="specs/homePageSpec.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Search" timestamp="2024-08-31T20:29:03" tests="7" time="5.762" failures="0">
+    <testcase name="Search Should have at least one accordian in place" time="1.841" classname="Should have at least one accordian in place">
+    </testcase>
+    <testcase name="Search Verify that first accordian is visible on page load" time="0.780" classname="Verify that first accordian is visible on page load">
+    </testcase>
+    <testcase name="Search Verify that first accordian collapses when you click on button" time="1.148" classname="Verify that first accordian collapses when you click on button">
+    </testcase>
+    <testcase name="Search Verify first accordian exists" time="0.397" classname="Verify first accordian exists">
+    </testcase>
+    <testcase name="Search Verify that each carousel has 10 cards" time="0.340" classname="Verify that each carousel has 10 cards">
+    </testcase>
+    <testcase name="Search Verify that each carousel-item contains one link followed by an image" time="0.472" classname="Verify that each carousel-item contains one link followed by an image">
+    </testcase>
+    <testcase name="Search pickup the image that refers to thehindi.com and check its href also refers tp the same website." time="0.418" classname="pickup the image that refers to thehindi.com and check its href also refers tp the same website.">
+    </testcase>
+  </testsuite>
+</testsuites>
